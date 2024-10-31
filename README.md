@@ -42,12 +42,6 @@ To run the projects locally, please ensure you have the following packages insta
 - matplotlib
 - seaborn
 
-You can install these packages using pip:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
-
-
 <a name="contributing"></a> 🤝 Contributing If you'd like to contribute to this repository or have suggestions for improvements, please feel free to fork the repository and submit a pull request. We welcome contributions from the community!
 
 <a name="license"></a> 📜 License This repository and its contents are licensed under the MIT License. See the LICENSE file for more details.
